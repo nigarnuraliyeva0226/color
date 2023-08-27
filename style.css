@@ -1,0 +1,111 @@
+.list{
+width: 200px;
+margin: o auto;
+}
+.list ol {
+    counter-reset: Li;
+    list-style: none;
+    list-style: decimal;
+    font-size: 15px;
+    padding: o;
+    margin-bottom: 4em;
+
+}
+div.pone {  
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: black;
+}
+.ptwo {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: silver;
+}
+.pthree {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: gray;
+}
+.pfour {
+    
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color:white;
+    
+}
+.pfive {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: maroon;
+}
+.psix {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: red;
+}
+.pseven {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: purple;
+}
+.peight {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: fuchsia;
+}
+.pnine {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: green;
+}
+.pten {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: lime;
+}
+.peleven {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: olive;
+}
+.ptwelve {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: yellow;
+}
+.pthirteen {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: navy;
+}
+.pfourteen {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: blue;
+}
+.pfiveteen {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: teal;
+}
+.psixteen {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    background-color: aqua;
+}
